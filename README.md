@@ -1,9 +1,7 @@
-# 04-steps-React
+04-steps-React
+This was an exercise to learn about states in React.
 
-Este foi um exercicio para aprender states em React. 
+Goals:
 
-Objectivo:
-
-- construir duas caixas em que podemos abrir e fechar as mesmas;
-- Dentro das caixas podemos selecionar 3 opções em que cada uma mostra algo diferente.
-
+-Build two boxes that can be opened and closed.
+-Within the boxes, we can select 3 options, each of which displays something different.
